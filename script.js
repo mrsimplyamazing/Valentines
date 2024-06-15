@@ -63,19 +63,19 @@ const songDataBase = [
     songSrc: "./music/music7.mp3",
     title: "Unthinkable",
     artist: "Alicia Keys & Drake",
-    imgSrc: "./img/music7.png",
+    imgSrc: "./img/music7.jpg",
   },
   {
     songSrc: "./music/music8.mp3",
     title: "Right Here",
     artist: "Justin Bieber & Drake",
-    imgSrc: "./img/music8.png",
+    imgSrc: "./img/music8.jpg",
   },
   {
     songSrc: "./music/music9.mp3",
     title: "Hold on",
     artist: "Justin Bieber",
-    imgSrc: "./img/music9.png",
+    imgSrc: "./img/music9.jpeg",
   },
   {
     songSrc: "./music/music10.mp3",
@@ -87,7 +87,7 @@ const songDataBase = [
     songSrc: "./music/music11.mp3",
     title: "So Sick",
     artist: "Sick",
-    imgSrc: "./img/music11.webp",
+    imgSrc: "./img/music11.jpg",
   },
   {
     songSrc: "./music/music12.mp3",
@@ -105,19 +105,19 @@ const songDataBase = [
     songSrc: "./music/music14.mp3",
     title: "Intentions",
     artist: "Justin Bieber",
-    imgSrc: "./img/music14.webp",
+    imgSrc: "./img/music14.jpg",
   },
   {
     songSrc: "./music/music15.mp3",
     title: "Never Let You Go",
     artist: "Justin Bieber",
-    imgSrc: "./img/music15.webp",
+    imgSrc: "./img/music15.jpeg",
   },
   {
     songSrc: "./music/music16.mp3",
     title: "Snooze",
     artist: "Sza",
-    imgSrc: "./img/music16.avif",
+    imgSrc: "./img/music16.jpeg",
   },
   {
     songSrc: "./music/music17.mp3",
@@ -129,19 +129,19 @@ const songDataBase = [
     songSrc: "./music/music18.mp3",
     title: "A Sweeter Place",
     artist: "Selena Gomez",
-    imgSrc: "./img/music18.webp",
+    imgSrc: "./img/music18.jpeg",
   },
   {
     songSrc: "./music/music19.mp3",
     title: "Fallin",
     artist: "Grace Weber",
-    imgSrc: "./img/music19.jpg",
+    imgSrc: "./img/music19.jpeg",
   },
   {
     songSrc: "./music/music20.mp3",
     title: "Hesitate",
     artist: "Jonas Brothers",
-    imgSrc: "./img/music20.webp",
+    imgSrc: "./img/music20.jpeg",
   },
 ];
 
